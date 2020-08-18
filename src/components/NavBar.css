@@ -1,0 +1,25 @@
+.nav-buttons {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+
+.nav-buttons a {
+    color: white;
+    font-weight: bold ;
+    text-decoration: none;
+}
+
+.nav-button {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+
+.nav-button:hover {
+    background-color: rgb(221, 221, 221);
+    cursor: pointer;
+}

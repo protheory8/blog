@@ -1,0 +1,9 @@
+#about-me {
+    max-width: 50em;
+}
+
+@media (max-width: 500px) {
+    #about-me {
+        text-align: center;
+    }
+}
