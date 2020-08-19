@@ -2,7 +2,7 @@ import React from "react";
 
 function Posts() {
     return (
-        <main>
+        <main className="page">
             <h1>Posts</h1>
         </main>
     );
